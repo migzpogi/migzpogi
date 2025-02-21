@@ -1,7 +1,14 @@
 ### Hi there 👋
 
-Projects
-* [blackforest](https://github.com/migzpogi/blackforest) ![image](https://img.shields.io/badge/status-in_progress-blue) 
+![image](https://img.shields.io/badge/status-in_progress-blue) 
+* [blackforest](https://github.com/migzpogi/blackforest)
+* [quartz](https://github.com/migzpogi/quartz)
+* [cocktailtime](https://github.com/migzpogi/cocktailtime)
+
+
+![image](https://img.shields.io/badge/status-completed-green) 
+* [gearscoreapi](https://github.com/migzpogi/gearscoreapi)
+
 
 <!--
 **migzpogi/migzpogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
