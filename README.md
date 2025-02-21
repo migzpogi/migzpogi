@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://img.shields.io/badge/status-in_progress-blue): [blackforest]([https://link-url-here.org](https://github.com/migzpogi/blackforest))
+![image](https://img.shields.io/badge/status-in_progress-blue) [blackforest]((https://github.com/migzpogi/blackforest)
 
 <!--
 **migzpogi/migzpogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
