@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![image](https://img.shields.io/badge/status-in_progress-blue) 
+![image](https://img.shields.io/badge/status-in_progress-blue)
+* [dilaw](https://github.com/migzpogi/dilaw) - Did Lakers Win
+* [anthologyunwrapped](https://github.com/migzpogi/anthologyunwrapped) - Spotify Wrapped History v2
 * [blackforest](https://github.com/migzpogi/blackforest) - Spotify Wrapped History
 * [quartz](https://github.com/migzpogi/quartz) - Updates via terminal
 * [cocktailtime](https://github.com/migzpogi/cocktailtime) - Landing page using Flask
@@ -9,6 +11,7 @@
 
 
 ![image](https://img.shields.io/badge/status-completed-green) 
+* [bakingtray](https://github.com/migzpogi/bakingtray) - Template files for projects
 * [gearscoreapi](https://github.com/migzpogi/gearscoreapi) - World of Warcraft Gear Score API
 * [PokerCalculator](https://github.com/migzpogi/PokerCalculator) - Poker hand strength calculator
 * [kumento](https://github.com/migzpogi/kumento) - Facebook auto-commenter
